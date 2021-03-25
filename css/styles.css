@@ -59,11 +59,6 @@ body {
     background-color: gray;
 }
 
-#section-5 {
-    background-color: black;
-    text-align: center;
-}
-
 
 /* Estilos de la página */
 
@@ -90,10 +85,19 @@ body {
     /* height="450" style="border:0;" */
 }
 
+#section-5 {
+    /*background-color da color de fondo a la caja (div)*/
+    background-color: black;
+    text-align: center;
+}
 
-/*gallery definira las imagenes*/
+
+/*La clase gallery definirá los estilos de las 
+imágenes de la sección 1 (section-1)*/
 
 .gallery {
+    /*como hay 3 imágenes por fila he de dividir 
+    la horizontal en 3 partes => width: 33.33%;*/
     width: 33.33%;
     float: left;
 }
