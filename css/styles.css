@@ -98,6 +98,10 @@ body {
     float: left;
 }
 
+.gallery img {
+    width: 100%;
+}
+
 @media screen and (max-width: 600px) {
     /* Aquí dentro van las reglas */
     #header h1 {
