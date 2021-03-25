@@ -119,6 +119,10 @@ imágenes de la sección 1 (section-1)*/
     padding-right: 9%;
 }
 
+.relleno-columnas {
+    padding: 20px;
+}
+
 @media screen and (max-width: 600px) {
     /* Aquí dentro van las reglas */
     #header h1 {
