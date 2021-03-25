@@ -28,6 +28,10 @@ body {
     color: #ffffff;
 }
 
+.column-1 h3 {
+    color: black;
+}
+
 #section-2 {
     background-color: #509ea0;
     text-align: center;
