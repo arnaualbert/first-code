@@ -111,6 +111,14 @@ imágenes de la sección 1 (section-1)*/
     width: 100%;
 }
 
+
+/*Reglas auxiliares*/
+
+.relleno-lateral {
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
 @media screen and (max-width: 600px) {
     /* Aquí dentro van las reglas */
     #header h1 {
