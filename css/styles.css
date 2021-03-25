@@ -90,6 +90,14 @@ body {
     /* height="450" style="border:0;" */
 }
 
+
+/*gallery definira las imagenes*/
+
+.gallery {
+    width: 33.33%;
+    float: left;
+}
+
 @media screen and (max-width: 600px) {
     /* Aquí dentro van las reglas */
     #header h1 {
