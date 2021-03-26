@@ -36,7 +36,7 @@ body {
 #section-2 {
     background-color: #509ea0;
     text-align: center;
-    /*     padding-top: 50px;
+    /* padding-top: 50px;
     padding-bottom: 50px; */
 }
 
@@ -47,13 +47,13 @@ body {
 }
 
 #section-3 {
-    /*     padding: 0 7%; */
+    /* padding: 0 7%; */
 }
 
 .column-4 {
     width: 25%;
     float: left;
-    /*    padding: 40px; */
+    /* padding: 40px; */
 }
 
 .column-4 p {
@@ -120,10 +120,10 @@ imágenes de la sección 1 (section-1)*/
 }
 
 .relleno-columnas {
-    padding: 20px;
+    padding-right: 20px;
 }
 
-.relleno-imagenes {
+#section-1 img {
     padding: 50px;
 }
 
@@ -146,6 +146,12 @@ imágenes de la sección 1 (section-1)*/
         padding-right: 2%;
     }
     .column-4 {
+        width: 50%;
+    }
+    .relleno-columnas {
+        padding-right: 0px;
+    }
+    .gallery {
         width: 50%;
     }
 }
